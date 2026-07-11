@@ -13,7 +13,7 @@ class UiButtonShowcaseFactory {
         context.read<UIControlBloc>().add(OnButtonPressed());
       },
       icon: Icon(Icons.favorite, color: Colors.red),
-      tooltip: 'Likey',
+      tooltip: 'Like',
     );
   }
 
